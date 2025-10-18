@@ -1,6 +1,8 @@
 # sebastian rugas
 really cool programmer making really cool things!! probably running off too many AriZona Green Teas. honor the scarf
 
+known by the alias cirrostrat
+
 ## what i do 
 - VEX V5 robotics team 7135E (2023-25), 7135D (25-)
 - LBCSI linux training lead for 2025-26
