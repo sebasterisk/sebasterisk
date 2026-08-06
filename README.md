@@ -10,12 +10,12 @@ I'm a high school student working on various programming, engineering, and cyber
 
 ## what i do 
 - the VEX V5 robotics competition, team 7135E (2023-25), 7135D (25-)
-- LBCSI linux training lead for 2025-26
+- LBCSI linux training lead for 2025-26, product development 26-27
 - the CyberPatriot competition.
 - a bunch of other stuff in my free time.
 
 <p align=center>
-  Visit my website at <a href="//cirrostrat.neocities.org">cirrostrat.neocities.org</a> <br>
+  Visit my website at <a href="//cirrostrat.dev">cirrostrat.dev</a> <br>
   Have fun, be safe, and honor the scarf. Always.
 </p>
 
